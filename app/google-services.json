@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435260156709",
+    "project_id": "covid-rakshak-63024",
+    "storage_bucket": "covid-rakshak-63024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435260156709:android:e8fc721393aa1c0d0f48cc",
+        "android_client_info": {
+          "package_name": "com.example.covidrakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435260156709-1r1g5iev6bg5m40vnsrdaq176o18prh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidrakshak",
+            "certificate_hash": "606aa38efbc3dff3090c0eef3d6bbac9d4f95c5d"
+          }
+        },
+        {
+          "client_id": "435260156709-tsd582s2ah7ub0i3q2pjd6uc31kish7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRR_Gp-xQMhS2vizAGuqrxvBiY-tds9Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435260156709-tsd582s2ah7ub0i3q2pjd6uc31kish7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
